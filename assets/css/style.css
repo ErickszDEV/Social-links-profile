@@ -104,3 +104,13 @@ a{
     color:var(--clr-off-black);
 }
 
+@media(min-width: 1440px){
+    .container{
+        margin-top: 0;
+    }
+
+    .profile{
+        width: 38rem;
+        padding: 3rem 4rem;
+    }
+}
